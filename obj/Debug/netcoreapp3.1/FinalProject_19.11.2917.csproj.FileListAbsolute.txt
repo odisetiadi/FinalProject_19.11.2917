@@ -1,0 +1,13 @@
+C:\Users\odi setiadi\source\repos\FinalProject_19.11.2917\FinalProject_19.11.2917\bin\Debug\netcoreapp3.1\FinalProject_19.11.2917.exe
+C:\Users\odi setiadi\source\repos\FinalProject_19.11.2917\FinalProject_19.11.2917\bin\Debug\netcoreapp3.1\FinalProject_19.11.2917.deps.json
+C:\Users\odi setiadi\source\repos\FinalProject_19.11.2917\FinalProject_19.11.2917\bin\Debug\netcoreapp3.1\FinalProject_19.11.2917.runtimeconfig.json
+C:\Users\odi setiadi\source\repos\FinalProject_19.11.2917\FinalProject_19.11.2917\bin\Debug\netcoreapp3.1\FinalProject_19.11.2917.runtimeconfig.dev.json
+C:\Users\odi setiadi\source\repos\FinalProject_19.11.2917\FinalProject_19.11.2917\bin\Debug\netcoreapp3.1\FinalProject_19.11.2917.dll
+C:\Users\odi setiadi\source\repos\FinalProject_19.11.2917\FinalProject_19.11.2917\bin\Debug\netcoreapp3.1\FinalProject_19.11.2917.pdb
+C:\Users\odi setiadi\source\repos\FinalProject_19.11.2917\FinalProject_19.11.2917\obj\Debug\netcoreapp3.1\FinalProject_19.11.2917.csprojAssemblyReference.cache
+C:\Users\odi setiadi\source\repos\FinalProject_19.11.2917\FinalProject_19.11.2917\obj\Debug\netcoreapp3.1\FinalProject_19.11.2917.csproj.CoreCompileInputs.cache
+C:\Users\odi setiadi\source\repos\FinalProject_19.11.2917\FinalProject_19.11.2917\obj\Debug\netcoreapp3.1\FinalProject_19.11.2917.AssemblyInfoInputs.cache
+C:\Users\odi setiadi\source\repos\FinalProject_19.11.2917\FinalProject_19.11.2917\obj\Debug\netcoreapp3.1\FinalProject_19.11.2917.AssemblyInfo.cs
+C:\Users\odi setiadi\source\repos\FinalProject_19.11.2917\FinalProject_19.11.2917\obj\Debug\netcoreapp3.1\FinalProject_19.11.2917.dll
+C:\Users\odi setiadi\source\repos\FinalProject_19.11.2917\FinalProject_19.11.2917\obj\Debug\netcoreapp3.1\FinalProject_19.11.2917.pdb
+C:\Users\odi setiadi\source\repos\FinalProject_19.11.2917\FinalProject_19.11.2917\obj\Debug\netcoreapp3.1\FinalProject_19.11.2917.genruntimeconfig.cache
